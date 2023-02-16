@@ -13,13 +13,13 @@ const Navbar = () => {
     
        <div className="collapse navbar-collapse" id="navbarSupportedContent">
          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-           <div style={{marginLeft:"1130px"}}>
+           <div style={{marginLeft:"1110px"}}>
              <li className="nav-item">
              <a className="nav-link active" aria-current="page" href="/home">Home</a>
            </li>
            </div>
            <li className="nav-item">
-             <a className="nav-link active" href="/story">Story</a>
+             <a className="nav-link active" href="/story">developer</a>
            </li>
            <li className="nav-item">
              <a className="nav-link active" href="/events">events</a>
